@@ -10,4 +10,4 @@ _It's a website._
 
 
 
-Copyright (c) 2016 **_Cecil Andersen_**
+Copyright (c) 2018 **_Cecil Andersen_**
